@@ -1,0 +1,12 @@
+The following packages that were used are;
+1) pandas 
+2) seaborn
+3) numpy
+4) matplotlib
+5) scikit-learn
+
+#%pip install pandas 
+#%pip install seaborn
+#%pip install numpy
+#%pip install matplotlib
+#%pip install scikit-learn
